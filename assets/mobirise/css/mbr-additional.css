@@ -702,14 +702,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-tuwCFQB2Wl {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-tuwCFQB2Wl img {
-  width: auto;
-}
 .cid-tsZCsgneED {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -840,4 +832,12 @@ a {
 }
 .cid-tsZCsgneED H5 {
   color: #e43f3f;
+}
+.cid-tuwEehSNhp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-tuwEehSNhp img {
+  width: auto;
 }
