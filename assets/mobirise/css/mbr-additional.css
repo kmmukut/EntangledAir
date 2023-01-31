@@ -702,6 +702,14 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-tuwCFQB2Wl {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-tuwCFQB2Wl img {
+  width: auto;
+}
 .cid-tsZCsgneED {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -709,28 +717,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tsZCsgneED .carousel {
-    min-height: 1200px;
+    min-height: 800px;
   }
   .cid-tsZCsgneED .carousel img {
-    max-height: 1200px;
+    max-height: 800px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-tsZCsgneED .carousel {
-    min-height: 780px;
+    min-height: 520px;
   }
   .cid-tsZCsgneED .carousel img {
-    max-height: 780px;
+    max-height: 520px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-tsZCsgneED .carousel {
-    min-height: 660px;
+    min-height: 440px;
   }
   .cid-tsZCsgneED .carousel img {
-    max-height: 660px;
+    max-height: 440px;
     object-fit: contain;
   }
   .cid-tsZCsgneED .container .carousel-control {
