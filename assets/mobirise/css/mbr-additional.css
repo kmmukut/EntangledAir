@@ -833,9 +833,33 @@ a {
 .cid-tsZCsgneED H5 {
   color: #e43f3f;
 }
+.cid-tuFyZHP31X {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-tuFyZHP31X .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-tuwEehSNhp {
   background-color: #efefef;
 }
 .cid-tuwEehSNhp img {
+  width: auto;
+}
+.cid-tuFzCt9Ztq {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #2299aa, #ff9966);
+}
+.cid-tuFzCt9Ztq .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-tuFzCtICSG {
+  background-color: #efefef;
+}
+.cid-tuFzCtICSG img {
   width: auto;
 }
